@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-basics-4",
+  "version": "1.0.0",
+  "description": "1. npm init -y 2. npm install --save <package-name> 3. create .gitignore file 4. add node_modules inside the gitignore file 5. create index.js 6. use package usage instruction to use the package 7. node index.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "proper-upper-case": "^0.1.0"
+  }
+}
